@@ -4,9 +4,9 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
     register-with-eureka: true
     fetch-registry: true
-    registry-fetch-interval-seconds: 10
-    connection-timeout-seconds: 10
-    read-timeout-seconds: 10
+    registry-fetch-interval-seconds: 5
+    connection-timeout-seconds: 5
+    read-timeout-seconds: 5
 
 server:
   port: 8585

@@ -1,0 +1,49 @@
+2024-07-04 23:59:56,707 * INFO * com.wigell.wigellpadel.services.AvailabilityService * isSlotAvailable * Checking availability for field: null date: null time: null
+2024-07-05 00:00:07,117 * INFO * com.wigell.wigellpadel.services.BookingService * updateBooking * Updated booking: com.wigell.wigellpadel.entities.Booking@f154571
+2024-07-05 00:00:11,243 * INFO * com.wigell.wigellpadel.services.BookingService * saveBooking * Created new booking: com.wigell.wigellpadel.entities.Booking@5e401f05
+2024-07-05 00:00:18,588 * INFO * com.wigell.wigellpadel.services.FieldService * addFieldToBooking * Added field to booking with id: 3
+2024-07-05 00:00:22,506 * INFO * com.wigell.wigellpadel.services.FieldService * deleteFieldFromBooking * Deleted field from booking with id: 2
+2024-07-05 00:00:26,079 * INFO * com.wigell.wigellpadel.services.FieldService * updateFieldOfBooking * Updated field of booking with id: 1
+2024-07-05 00:05:20,987 * INFO * com.wigell.wigellpadel.services.AvailabilityService * isSlotAvailable * Checking availability for field: null date: null time: null
+2024-07-05 00:05:29,094 * INFO * com.wigell.wigellpadel.services.BookingService * updateBooking * Updated booking: com.wigell.wigellpadel.entities.Booking@12d8bdf
+2024-07-05 00:05:32,931 * INFO * com.wigell.wigellpadel.services.BookingService * saveBooking * Created new booking: com.wigell.wigellpadel.entities.Booking@68de2452
+2024-07-05 00:05:42,782 * INFO * com.wigell.wigellpadel.services.FieldService * addFieldToBooking * Added field to booking with id: 3
+2024-07-05 00:05:46,030 * INFO * com.wigell.wigellpadel.services.FieldService * deleteFieldFromBooking * Deleted field from booking with id: 2
+2024-07-05 00:05:49,311 * INFO * com.wigell.wigellpadel.services.FieldService * updateFieldOfBooking * Updated field of booking with id: 1
+2024-07-05 00:06:45,978 * INFO * com.wigell.wigellpadel.services.AvailabilityService * isSlotAvailable * Checking availability for field: null date: null time: null
+2024-07-05 00:06:54,532 * INFO * com.wigell.wigellpadel.services.BookingService * updateBooking * Updated booking: com.wigell.wigellpadel.entities.Booking@5a9675e8
+2024-07-05 00:10:09,742 * INFO * com.wigell.wigellpadel.services.BookingService * updateBooking * Updated booking: com.wigell.wigellpadel.entities.Booking@4e16908c
+2024-07-05 00:10:13,688 * INFO * com.wigell.wigellpadel.services.AvailabilityService * isSlotAvailable * Checking availability for field: null date: null time: null
+2024-07-05 14:55:24,535 * INFO * com.wigell.wigellpadel.services.BookingService * saveBooking * Created new booking: com.wigell.wigellpadel.entities.Booking@4bdcdf40
+2024-07-05 15:35:09,539 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * All times before removal: [09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 19:00, 20:00]
+2024-07-05 15:35:09,548 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * Booked times: []
+2024-07-05 15:35:16,769 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * All times before removal: [09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 19:00, 20:00]
+2024-07-05 15:35:16,769 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * Booked times: []
+2024-07-05 15:35:26,182 * INFO * com.wigell.wigellpadel.services.BookingService * saveBooking * Created new booking: com.wigell.wigellpadel.entities.Booking@6860e425
+2024-07-05 15:35:31,865 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * All times before removal: [09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 19:00, 20:00]
+2024-07-05 15:35:31,865 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * Booked times: []
+2024-07-05 15:36:59,094 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * All times before removal: [09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 19:00, 20:00]
+2024-07-05 15:36:59,095 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * Booked times: []
+2024-07-05 15:37:02,781 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * All times before removal: [09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 19:00, 20:00]
+2024-07-05 15:37:02,787 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * Booked times: []
+2024-07-05 15:37:04,843 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * All times before removal: [09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 19:00, 20:00]
+2024-07-05 15:37:04,843 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * Booked times: []
+2024-07-05 15:37:19,091 * INFO * com.wigell.wigellpadel.services.BookingService * saveBooking * Created new booking: com.wigell.wigellpadel.entities.Booking@15ce76c4
+2024-07-05 15:37:24,999 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * All times before removal: [09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 19:00, 20:00]
+2024-07-05 15:37:24,999 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * Booked times: []
+2024-07-05 15:39:03,778 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * All times before removal: [09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 19:00, 20:00]
+2024-07-05 15:39:03,786 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * Booked times: []
+2024-07-05 15:39:19,726 * INFO * com.wigell.wigellpadel.services.BookingService * saveBooking * Created new booking: com.wigell.wigellpadel.entities.Booking@3720bbb2
+2024-07-05 15:39:26,703 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * All times before removal: [09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 19:00, 20:00]
+2024-07-05 15:39:26,703 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * Booked times: []
+2024-07-05 15:39:43,841 * INFO * com.wigell.wigellpadel.services.FieldService * addFieldToBooking * Added field to booking with id: 3
+2024-07-05 16:05:18,332 * INFO * com.wigell.wigellpadel.services.FieldService * addFieldToBooking * Added field to booking with id: 3
+2024-07-05 16:05:25,879 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * All times before removal: [09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 19:00, 20:00]
+2024-07-05 16:05:25,879 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * Booked times: []
+2024-07-05 16:05:32,861 * INFO * com.wigell.wigellpadel.services.BookingService * saveBooking * Created new booking: com.wigell.wigellpadel.entities.Booking@32b0a029
+2024-07-05 16:05:37,099 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * All times before removal: [09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 19:00, 20:00]
+2024-07-05 16:05:37,099 * INFO * com.wigell.wigellpadel.services.AvailabilityService * getAvailableSlots * Booked times: []
+2024-07-05 16:06:22,064 * INFO * com.wigell.wigellpadel.services.FieldService * addFieldToBooking * Added field to booking with id: 3
+2024-07-05 16:06:28,908 * INFO * com.wigell.wigellpadel.services.FieldService * deleteFieldFromBooking * Deleted field from booking with id: 2
+2024-07-05 16:06:34,322 * INFO * com.wigell.wigellpadel.services.FieldService * updateFieldOfBooking * Updated field of booking with id: 1
+2024-07-05 16:10:44,958 * INFO * com.wigell.wigellpadel.services.FieldService * updateFieldOfBooking * Updated field of booking with id: 1
